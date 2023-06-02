@@ -1,7 +1,7 @@
 <template>
   <div class="stake-view">
     <div class="container mini">
-      <h1>質押</h1>
+      <h1>Stake</h1>
       <div>
         <div>
           <div>
